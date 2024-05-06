@@ -1,8 +1,8 @@
 
-photon platform.projector
-=========================
+modules
+=======
 
-.. automodule:: photon platform.projector
+.. automodule:: photon_platform.projector
    :members:
    :undoc-members:
    :show-inheritance:
